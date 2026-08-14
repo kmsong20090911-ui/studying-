@@ -1,0 +1,9 @@
+{
+  "name":"StudyFlow — 공부 기록 & 플래너",
+  "short_name":"StudyFlow",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f5ff",
+  "theme_color":"#7657ee",
+  "lang":"ko"
+}
